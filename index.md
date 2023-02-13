@@ -12,6 +12,7 @@ Hello, I am {{page.person}} and trying to do handson using Markdown.
 {% endfor %}
 
 ## Sample Table
+
  | Years | Company
  |--- | --- |
  | 1975 - Present | Aryabhat Kapustin Yar |
@@ -26,8 +27,10 @@ Hello, I am {{page.person}} and trying to do handson using Markdown.
  
  Issue the following command: 'git c  onne...
  
- ##Link
+ ## Link
+ 
  [google website](https://www.google.com)
  
  ## Pictures
+ 
  ![image description](https://pinnacle.works/wp-content/uploads/2022/06/dummy-image.jpg)
