@@ -1,7 +1,7 @@
 ---
-name: vaishali suthar
+person: vaishali suthar
 ---
 
 # Index File
 
-Hello, I am {{page.name}} and trying to do handson using Markdown.
+Hello, I am {{page.person}} and trying to do handson using Markdown.
