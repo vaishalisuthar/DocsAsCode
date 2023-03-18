@@ -12,6 +12,6 @@ Markdown tags use simple characters and text conventions to allow the most commo
 1. On July 4, the aliens struck back. On July 5, Los Angeles was evacuated.
 1. On July 4, the aliens struck back. On July 5, Los Angeles was evacuated.
 
-**On July 4, the aliens struck back. On July 5, Los Angeles was evacuated.**
+_**On July 4, the aliens struck back. On July 5, Los Angeles was evacuated.**_
 
 _On July 4, the aliens struck back. On July 5, Los Angeles was evacuated._
